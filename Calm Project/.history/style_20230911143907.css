@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Search */
+    background-color: #F9F5ED;
+
+}
+
+nav{
+    padding: 20px 10%;
+    height:15vh;
+
+}
+
+nav ul{
+    
+}
+
+/* CSS For Hero Section */
+main{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+.leftmain{
+    width: ;
+}

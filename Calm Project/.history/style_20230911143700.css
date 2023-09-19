@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Search */
+    background-color: #F9F5ED;
+
+}
+
+
+
+/* CSS For Hero Section */
+main{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+.leftmain{
+    width: ;
+}
