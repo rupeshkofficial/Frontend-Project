@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+body{
+    margin: auto;
+    min-height: 100vh;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+    color: white;
+}
+
+.menu1{
+    display: flex; 
+}

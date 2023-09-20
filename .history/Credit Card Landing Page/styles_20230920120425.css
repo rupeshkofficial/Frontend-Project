@@ -1,0 +1,44 @@
+.card{
+    background-image: url(./Assets/Photos/backCards.png), url(./Assets/Photos/frontCards.png);
+    background-repeat: no-repeat; 
+    background-position: right top, 142% 1%;
+    /* height: 700px; */
+}
+
+@media (max-width: 768px) { 
+    .card{
+        background-image: url(./Assets/Photos/backCards.png);
+        background-repeat: no-repeat; 
+        background-position: right top, -170% 10%;
+        /* url(./Assets/Photos/frontCards.png) */
+    }
+ }
+
+ .button-1 {
+    background-color: transparent;
+    border: 3px solid #fc00d6;
+    border-radius: 50px;
+    -webkit-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+    color: #fc00d5;
+  }
+  .button-1:hover {
+    box-shadow: 0 0 10px 0 #fc00d5 inset, 0 0 20px 2px #fc00d5;
+    border: 3px solid #fc00d5;
+  }
+
+  button:hover{
+    box-shadow: 0 0 10px 0 #fc00d5 inset, 0 0 20px 2px #fc00d5;
+    border: 3px solid #fc00d5;
+  }
+
+.myimage{
+  width: 1800px;
+  height: 400px;
+}
+
+.diamond{
+  width: 400px;
+  height: 400px;
+  
+}

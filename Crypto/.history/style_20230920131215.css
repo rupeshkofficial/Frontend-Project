@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    padding: 10px;
+    height:5vh;
+    background: black;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    /* gap:50px; */
+}
+
+nav ul li{
+    list-style: none;
+    margin-right: 5%;
+    font-weight: 500;
+    color: white;
+}

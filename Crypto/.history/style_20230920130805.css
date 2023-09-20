@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    padding: 20px;
+    height:15vh;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    gap:50px;
+}
+

@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    min-height: 100vh;
+}
+
+main{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0 45px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+
+}
+
+.logo{
+    position: relative;
+    left: 70px;
+}
+
+.left-menu{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    right: 40px;
+}
+
+.left-menu li{
+    list-style: none;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.right-menu{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    right: 40px;
+}
+
+.right-menu li{
+    list-style: none;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/* .pink-bg{
+    position: absolute;
+} */
+
+.contact{
+    z-index: 1;
+}
+.icon{
+    margin-right: 10px;
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.home{
+padding: 50px 145px;
+position: relative;
+}
+
+.home-left{
+    color:#ffffff;
+    position: relative;
+    left:80px;
+}
+
+.home-left h1{
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    word-spacing: 2px;
+}
+
+.home-left p{
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 60px; 
+}
+
+.{
+    display: flex;
+}

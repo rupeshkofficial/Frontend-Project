@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    min-height: 100vh;
+}
+
+main{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0 45px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+
+}
+
+.logo{
+    position: relative;
+    left: 70px;
+}
+
+.left-menu{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    right: 40px;
+}
+
+.menu li{
+    list-style: none;
+    font-weight: 400;
+    font-size: 14px;
+}
