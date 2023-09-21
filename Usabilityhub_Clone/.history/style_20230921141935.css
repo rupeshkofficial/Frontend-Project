@@ -175,11 +175,3 @@ header{
     color:var(--primary-text-color);
 }
 
-.logos{
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.logo{
-    height: 46px;
-}

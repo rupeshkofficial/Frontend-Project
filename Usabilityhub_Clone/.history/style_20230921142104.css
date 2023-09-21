@@ -177,7 +177,6 @@ header{
 
 .logos{
     justify-content: space-between;
-    flex-wrap: wrap;
 }
 
 .logo{

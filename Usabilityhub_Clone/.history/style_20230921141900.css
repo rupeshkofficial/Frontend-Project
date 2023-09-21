@@ -171,15 +171,5 @@ header{
 
 .companies-header{
     text-align: center;
-    margin-block: 30px;
-    color:var(--primary-text-color);
-}
-
-.logos{
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.logo{
-    height: 46px;
+    margin-block: ;
 }
